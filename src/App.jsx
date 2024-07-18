@@ -23,7 +23,7 @@ import image21 from "./assets/Rectangle 12.png";
 import image22 from "./assets/Rectangle 13.png";
 import { FaCircle } from 'react-icons/fa';
 import { Header } from './components/header';
-import {Main} from './components/header';
+import {Main} from './components/main';
 
 function App() {
   return (
